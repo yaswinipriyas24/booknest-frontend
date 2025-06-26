@@ -1,12 +1,32 @@
-# React + Vite
+# 📚 BookNest: Where Stories Nestle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**BookNest** is a modern, responsive frontend for an online bookstore built using **Vite + React**. It provides a smooth and fast user experience for browsing and purchasing books online.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Coming Soon (once deployed)
 
-## Expanding the ESLint configuration
+## 🖥️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ [Vite](https://vitejs.dev/)
+- ⚛️ [React](https://react.dev/)
+- 🎨 CSS3 (plain or framework if added later)
+- 📦 Node.js (for development)
+
+## 📂 Project Structure
+
+```bash
+booknest-frontend/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   ├── index.css
+│   └── assets/
+│       └── react.svg
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
